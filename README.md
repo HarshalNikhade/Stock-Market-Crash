@@ -80,6 +80,3 @@ Example (first 5 rows):
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
 
-
-Would you like me to also generate a **requirements.txt** (auto-extracting the libraries used in your notebook), so your repo is fully ready to run?
-# Stock-Market-Crash
