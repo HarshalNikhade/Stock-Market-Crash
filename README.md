@@ -56,7 +56,7 @@ Example (first 5 rows):
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/HarshalNikhade/StockMarketCrash.git
+   git clone https://github.com/HarshalNikhade/Stock-Market-Crash.git
    cd StockMarketCrash
    ```
 2. Install dependencies:
